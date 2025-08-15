@@ -160,6 +160,28 @@
 "online": "true",
 "userAgent": "PlusMediaPlayer/0.0.9",
 "import": false
+},
+{
+"name": "SUPERMAN",
+"image": "https://pics.filmaffinity.com/superman-138926671-large.jpg",
+"url": "https://filemoon.to/d/tdfg1xwe4hcw",
+"info": "🇪🇦 By Xuperlist",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent": "PlusMediaPlayer/0.0.9",
+"import": false
+},
+{
+"name": "LOS PITUFOS",
+"image": "https://pics.filmaffinity.com/smurfs-178339408-large.jpg",
+"url": "https://filemoon.to/d/05fa7vmw0gwk",
+"info": "🇪🇦 By Xuperlist",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"userAgent": "PlusMediaPlayer/0.0.9",
+"import": false
 }
 ]
 }
