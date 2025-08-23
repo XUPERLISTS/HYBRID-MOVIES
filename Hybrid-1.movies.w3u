@@ -237,43 +237,6 @@
 "online": "true",
 "userAgent": "PlusMediaPlayer/0.0.9",
 "import": false
-},
-{
-"name": "Mision",
-"author": "",
-"image": "",
-"info": "",
-"embed": "true",
-"stations":
-    [
-{
-"name": "MISION IMPOSIBLE-(SENTENCIA FINAL)",
-"image": "https://i.postimg.cc/mZPgJKZM/images.jpg",
-"url": "https://scorpions.upn.one/#cvsufk/?embed=1",
-"info": "🇪🇦 By Xuperlist",
-"embed": "true",
-"isHost": "",
-"online": "true"
-}
-]
-},
-{
-       "name": "XUPERLIST IPT TV (pruebas)",
-       "image": "https://i.postimg.cc/0QKq131f/logo8-2-222011.png",
-       "imageScale": "",
-       "stations":
-                  [
-  
-                      {
-                      "name": "XUPERLIST IPT TV (pruebas)",
-                      "info":"",
-                      "image": "https://i.postimg.cc/0QKq131f/logo8-2-222011.png",
-                      "url": "https://xuper-ipt-tv.netlify.app/",
-                      "embed": "true"
-                      }
-                    ]
-                  }
-]
 }
 ]
 }
